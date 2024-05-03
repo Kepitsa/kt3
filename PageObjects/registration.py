@@ -1,6 +1,6 @@
 from PageObjects.base import BasePage
 from selenium.webdriver.common.by import By
-from conf import *
+from config import *
 
 
 class RegistrationPage(BasePage):
